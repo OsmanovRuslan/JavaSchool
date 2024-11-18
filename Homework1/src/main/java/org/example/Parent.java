@@ -25,6 +25,7 @@ public abstract class Parent {
     }
 
     public Parent(String Name) {
+        this.Name = Name;
         System.out.println("Parent:name-constructor");
     }
 

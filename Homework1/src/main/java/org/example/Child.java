@@ -23,6 +23,7 @@ public class Child extends Parent{
     }
 
     public Child(String Name) {
+        super(Name);
         System.out.println("Child:name-constructor");
     }
 
