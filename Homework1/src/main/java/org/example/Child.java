@@ -6,16 +6,12 @@ public class Child extends Parent{
         System.out.println("Child:static 1");
     }
 
-    static {
-        System.out.println("Child:static 2");
-    }
-
     {
         System.out.println("Child:instance 1");
     }
 
-    {
-        System.out.println("Child:instance 2");
+    static {
+        System.out.println("Child:static 2");
     }
 
     public Child() {
@@ -25,6 +21,10 @@ public class Child extends Parent{
     public Child(String Name) {
         super(Name);
         System.out.println("Child:name-constructor");
+    }
+
+    {
+        System.out.println("Child:instance 2");
     }
 
 }
