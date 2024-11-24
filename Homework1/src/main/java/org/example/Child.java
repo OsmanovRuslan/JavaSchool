@@ -18,8 +18,8 @@ public class Child extends Parent{
         System.out.println("Child:constructor");
     }
 
-    public Child(String Name) {
-        super(Name);
+    public Child(String name) {
+        super(name);
         System.out.println("Child:name-constructor");
     }
 
