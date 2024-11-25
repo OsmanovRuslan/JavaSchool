@@ -24,8 +24,8 @@ public abstract class Parent {
         System.out.println("Parent:instance 2");
     }
 
-    public Parent(String Name) {
-        this.Name = Name;
+    public Parent(String name) {
+        Name = name;
         System.out.println("Parent:name-constructor");
     }
 
