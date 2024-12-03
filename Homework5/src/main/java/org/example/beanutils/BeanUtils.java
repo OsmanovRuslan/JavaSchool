@@ -30,8 +30,6 @@ public class BeanUtils {
                     if (isSetter(toMethod)){
                         if (isCompatible(fromMethod, toMethod)) {
                             try {
-                                fromMethod.setAccessible(true);
-                                toMethod.setAccessible(true);
                                 toMethod.invoke(to, fromMethod.invoke(from));
                             } catch (IllegalAccessException | InvocationTargetException e) {
                                 System.err.println(e.getMessage());
