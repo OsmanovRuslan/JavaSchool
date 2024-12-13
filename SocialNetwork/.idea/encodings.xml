@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ChatService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FriendService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FriendService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GiftService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GiftService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhotoService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhotoService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProfileService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProfileService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecommendationService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecommendationService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
